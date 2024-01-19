@@ -1,6 +1,0 @@
-package dataawsimagebuilderimagepipeline
-
-
-type DataAwsImagebuilderImagePipelineImageScanningConfiguration struct {
-}
-

@@ -1,6 +1,0 @@
-package dataawsappmeshvirtualnode
-
-
-type DataAwsAppmeshVirtualNodeSpecBackendVirtualServiceClientPolicyTlsValidationSubjectAlternativeNamesMatch struct {
-}
-

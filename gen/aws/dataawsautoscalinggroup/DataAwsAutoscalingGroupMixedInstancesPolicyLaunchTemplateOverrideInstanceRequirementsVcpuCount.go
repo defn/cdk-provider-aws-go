@@ -1,6 +1,0 @@
-package dataawsautoscalinggroup
-
-
-type DataAwsAutoscalingGroupMixedInstancesPolicyLaunchTemplateOverrideInstanceRequirementsVcpuCount struct {
-}
-

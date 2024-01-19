@@ -1,6 +1,0 @@
-package dataawsssoadminapplicationassignments
-
-
-type DataAwsSsoadminApplicationAssignmentsApplicationAssignments struct {
-}
-

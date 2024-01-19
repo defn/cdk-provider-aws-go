@@ -1,6 +1,0 @@
-package codegurureviewerrepositoryassociation
-
-
-type CodegurureviewerRepositoryAssociationS3RepositoryDetails struct {
-}
-

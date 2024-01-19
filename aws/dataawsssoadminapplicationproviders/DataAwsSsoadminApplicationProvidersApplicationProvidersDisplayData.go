@@ -1,0 +1,6 @@
+package dataawsssoadminapplicationproviders
+
+
+type DataAwsSsoadminApplicationProvidersApplicationProvidersDisplayData struct {
+}
+

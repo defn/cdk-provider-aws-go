@@ -1,6 +1,0 @@
-package dataawsorganizationsorganizationalunitchildaccounts
-
-
-type DataAwsOrganizationsOrganizationalUnitChildAccountsAccounts struct {
-}
-

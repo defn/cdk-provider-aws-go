@@ -1,6 +1,0 @@
-package dataawsservicecatalogprovisioningartifacts
-
-
-type DataAwsServicecatalogProvisioningArtifactsProvisioningArtifactDetails struct {
-}
-

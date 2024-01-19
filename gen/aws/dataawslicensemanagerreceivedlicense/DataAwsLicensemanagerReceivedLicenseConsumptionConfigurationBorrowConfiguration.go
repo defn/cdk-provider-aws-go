@@ -1,6 +1,0 @@
-package dataawslicensemanagerreceivedlicense
-
-
-type DataAwsLicensemanagerReceivedLicenseConsumptionConfigurationBorrowConfiguration struct {
-}
-

@@ -1,6 +1,0 @@
-package dataawsappmeshvirtualgateway
-
-
-type DataAwsAppmeshVirtualGatewaySpecLoggingAccessLogFileFormatJson struct {
-}
-

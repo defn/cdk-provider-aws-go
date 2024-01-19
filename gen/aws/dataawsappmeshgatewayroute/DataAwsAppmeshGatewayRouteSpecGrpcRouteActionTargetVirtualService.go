@@ -1,6 +1,0 @@
-package dataawsappmeshgatewayroute
-
-
-type DataAwsAppmeshGatewayRouteSpecGrpcRouteActionTargetVirtualService struct {
-}
-
