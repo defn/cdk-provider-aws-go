@@ -1,0 +1,6 @@
+package dataawsfsxontapstoragevirtualmachine
+
+
+type DataAwsFsxOntapStorageVirtualMachineActiveDirectoryConfiguration struct {
+}
+

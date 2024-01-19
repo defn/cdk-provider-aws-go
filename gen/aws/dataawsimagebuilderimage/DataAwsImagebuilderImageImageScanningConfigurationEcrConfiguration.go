@@ -1,0 +1,6 @@
+package dataawsimagebuilderimage
+
+
+type DataAwsImagebuilderImageImageScanningConfigurationEcrConfiguration struct {
+}
+

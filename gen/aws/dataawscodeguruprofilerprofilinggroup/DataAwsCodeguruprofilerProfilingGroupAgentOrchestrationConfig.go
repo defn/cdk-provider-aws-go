@@ -1,0 +1,6 @@
+package dataawscodeguruprofilerprofilinggroup
+
+
+type DataAwsCodeguruprofilerProfilingGroupAgentOrchestrationConfig struct {
+}
+

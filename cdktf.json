@@ -1,0 +1,9 @@
+{
+  "language": "go",
+  "app": "true",
+  "codeMakerOutput": "gen",
+  "terraformProviders": [
+    "aws@~> 5.33.0"
+  ],
+  "projectId": "7221c7cd-6315-4143-af9a-c8d431aebeea"
+}

@@ -1,0 +1,6 @@
+package dataawsverifiedpermissionspolicystore
+
+
+type DataAwsVerifiedpermissionsPolicyStoreValidationSettings struct {
+}
+

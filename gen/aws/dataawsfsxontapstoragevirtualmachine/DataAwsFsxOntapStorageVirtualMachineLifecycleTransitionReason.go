@@ -1,0 +1,6 @@
+package dataawsfsxontapstoragevirtualmachine
+
+
+type DataAwsFsxOntapStorageVirtualMachineLifecycleTransitionReason struct {
+}
+
